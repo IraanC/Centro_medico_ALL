@@ -9,6 +9,7 @@ O projeto me proporcionou experiências valiosas, incluindo:
 - Análise de requisitos, que ajudou a alinhar a modelagem de dados às necessidades do negócio.
 - Permitiu entender diferentes perspectivas e abordagens.
 - Aplicação de índices e views, otimizando o desempenho e evidenciando a importância de um design eficiente para o sucesso a longo prazo.
+- Aplicação de Triggers para automazizar processos,para manter a integridade  e a confiabilidade dos dados. 
 
 ## Resultados
 Os resultados foram muito satisfatórios:
