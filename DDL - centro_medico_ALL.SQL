@@ -103,3 +103,5 @@ CREATE TABLE tb_feedback(
  PRIMARY KEY ( id_feedback ),
  FOREIGN KEY ( id_paciente ) REFERENCES tb_paciente ( id_paciente ) ON DELETE CASCADE 
 );
+
+@@@ ALTER TABLE tb_funcionario ADD COLUMN data_ultima_atualizacao DATETIME;

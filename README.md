@@ -10,6 +10,9 @@ O projeto me proporcionou experiências valiosas, incluindo:
 - Permitiu entender diferentes perspectivas e abordagens.
 - Aplicação de índices e views, otimizando o desempenho e evidenciando a importância de um design eficiente para o sucesso a longo prazo.
 - Aplicação de Triggers para automazizar processos,para manter a integridade  e a confiabilidade dos dados. 
+- Desenvolvimento de Stored Procedures (Stored Procs): A implementação de stored procedures permitiu a centralização de lógicas complexas no banco de dados, melhorando a eficiência e a manutenção do sistema, além de garantir a consistência de processos críticos.
+
+- Gerenciamento de transações: A aplicação de transações foi essencial para garantir a consistência e a integridade dos dados em operações complexas. A utilização de transações assegurou que as operações fossem executadas de forma atômica, ou seja, ou todas as mudanças fossem aplicadas com sucesso ou nenhuma delas, prevenindo inconsistências no banco de dados."
 
 ## Resultados
 Os resultados foram muito satisfatórios:
